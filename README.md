@@ -78,5 +78,3 @@ I used **Hierarchical Clustering**, a tree-based clustering method, to identify 
   - Average linkage captures the **overall similarity across ships** better than single or complete linkage.  
   - Silhouette score indicates **moderate to strong separation** between clusters (0.461).  
 
----
-
